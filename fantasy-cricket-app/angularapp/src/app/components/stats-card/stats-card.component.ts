@@ -1,0 +1,2 @@
+   mkdir FantasyCricketApp
+   cd FantasyCricketApp
